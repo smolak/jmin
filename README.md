@@ -1,3 +1,3 @@
-# assert-mocha-skeleton
+# JSON Minifier
 
-Node's assert + mochajs skeleton application
+...
